@@ -2,7 +2,7 @@
 ML to practice
 
 ##.##.23
-added Loader for MNIST data
+Added loader for MNIST data
 
 02.04.23
 Added noise, rotate funcs;
